@@ -1,23 +1,7 @@
 export default function App() {
   return (
     <div className="app">
-      <div className="animated-bg">
-        <div className="gradient-orb orb-1"></div>
-        <div className="gradient-orb orb-2"></div>
-        <div className="gradient-orb orb-3"></div>
-        <div className="gradient-orb orb-4"></div>
-        <div className="gradient-orb orb-5"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-        <div className="particle"></div>
-      </div>
+      <h1 className="hello-text">HELLO!</h1>
     </div>
   )
 }
